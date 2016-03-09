@@ -1,4 +1,5 @@
 testfil Git-labb Da336A
 
-ändring efter commit
-testar för merge
+Ã¤ndring efter commit
+Test fÃ¶r att forcera merge
+
