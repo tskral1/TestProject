@@ -1,3 +1,4 @@
 testfil Git-labb Da336A
 
-�ndring efter commit
+ändring efter commit
+Test för att forcera merge
